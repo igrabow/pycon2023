@@ -1,0 +1,24 @@
+traditional monitoring
+prometheus, kibana, grafana etc.
+
+compute diff metrics
+
+continuous testing
+
+scheduling pipelines
+imput -> test (transform) -> predict (test) -> prediction logs
+
+test = batch jobs
+
+Group tests - independent pipelines
+
+metrics as jobs
+kibana
+
+kibana (elastic) python api???????
+https://www.elastic.co/guide/en/elasticsearch/client/python-api/index.html
+
+evidentlyai
+https://github.com/evidentlyai/evidently
+
+-> grafana
