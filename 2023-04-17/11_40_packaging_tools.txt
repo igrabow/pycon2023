@@ -1,0 +1,30 @@
+pretty intrdutional in basics of packaging tools
+
+pyenv 
+virtualenv
+
+packaging:
+.whl and .tar.gz
+
+upload with twine
+
+lock files
+
+pipenv - pip and virtualenv
+
+conda
+own index
+
+
+packaging tools
+
+flit - building and packaging
+
+poetry - build, publish, Environment / Packaging Management
++ lock files
+
+PDM - build, publish, Environment / Packaging Management
+3.7 or higher
+supports all features
+
+hatch
