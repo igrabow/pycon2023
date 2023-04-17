@@ -22,3 +22,9 @@ for testing a fastAPI API
 again, first write tests (TDD)
 
 und dann hat er sich verlaufen in seiner live demo :-D
+
+
+mock email service
+fastAPI Depends
+
+
