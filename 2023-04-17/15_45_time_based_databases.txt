@@ -1,0 +1,3 @@
+cut the data into pieces and put the databases on different partitions
+
+strong performance boostm

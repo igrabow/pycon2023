@@ -7,3 +7,5 @@ attended talks:
 ### 11:40 An unbiased evaluation of environment management and packaging tools
 ### 13:50 Keynote - A journey through 4 industries with Python: Python's versatile problem-solving toolkit
 ### 15:10 Continuous_Testing.txt
+### 15:45 time_based_databases
+### 16:20 fastAPI

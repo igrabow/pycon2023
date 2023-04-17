@@ -1,0 +1,24 @@
+TDD using fastAPI
+
+TDD:
+1. write failing test
+2. Write code to make the test green
+3. refactor code and test
+4. repeat
+
+
+less overhead 
+learning curve
+
+wiremock for mocking an api (docker)
+
+
+conftest fixture!
+fastapi.test_client for TDD
+
+for testing a fastAPI API
+
+
+again, first write tests (TDD)
+
+und dann hat er sich verlaufen in seiner live demo :-D
