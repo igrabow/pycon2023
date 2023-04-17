@@ -1,0 +1,12 @@
+datetime
+dicts
+
+
+pyarrow strings - e.g. startswith faster
+
+pyarrow csv
+
+read_csv and read_json
+multithreading available
+
+
