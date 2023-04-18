@@ -143,7 +143,8 @@ print(add(3,4))
 print(add.__wrapped__)
 
 
-# Logged.py
+# Blick auf die logged.py
+# Decorator for logging 
 
 LOGGING = False
 
