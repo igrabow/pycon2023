@@ -9,3 +9,8 @@ attended talks:
 ### 15:10 Continuous_Testing.txt
 ### 15:45 time_based_databases
 ### 16:20 fastAPI
+
+
+## 04-18
+### 09:15 Managing Data Science Teams
+### 10:30 Aspect-oriented Programming - Diving deep into Decorators
