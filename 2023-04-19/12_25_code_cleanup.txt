@@ -1,0 +1,4 @@
+flake8 
+cognitive-complexity, adjustable-complexity, expression-complexity, functions
+
+github.com/corriebar/code-complexity

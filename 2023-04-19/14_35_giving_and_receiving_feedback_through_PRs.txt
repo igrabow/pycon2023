@@ -1,0 +1,16 @@
+Feedback on a PR is always for improving the code, not to blame
+
+feedback: niemald direkte Anrede
+besser in einer Frage verfassen und ggf. quellen mit angeben die eine Änderung begründen.
+
+
+Feedback annehmen
+
+annehmen, dass der andere helfen will
+antworten mit begründung
+blind feedback übernehmen ist das gleiche, wie es zu ignorieren
+
+Checklist:
+jdkandersson.com
+
+https://jdkandersson.com/2022/12/25/giving-and-receiving-great-feedback-through-prs/
