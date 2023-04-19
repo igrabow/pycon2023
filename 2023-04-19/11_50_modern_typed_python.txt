@@ -1,0 +1,7 @@
+Keine neuen Informationen
+
+Type-Hints in fastAPI / Pydantic bereits implementiert.
+
+
+Wenn man explizit auf Types prüfne möchte, kann man auch einen Decorator nutzen
+
