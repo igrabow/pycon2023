@@ -1,0 +1,27 @@
+Globale Variablen verlangsamen den Code
+Wenn die Variable in eienr Funktion ist, sucht python nicht mehr im Globalen Space nach der Variable (was viel langsamer wäre).
+
+functools cache
+cache decorator cached die Funktion
+
+
+mandel-bench github repo
+
+numpy z.b. für arrays
+
+for jitting (?)
+pypy
+numba
+jax (Google research project)
+jax.numpy
+
+
+core implementations
+pytorch
+
+GPU
+CuPy
+numba (cuda)
+pytorch
+
+dask

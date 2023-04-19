@@ -17,3 +17,6 @@ attended talks:
 ### 14:10 JAX - horrible
 ### 14:45 Delivering AI at Scale (DHL)
 ### 16:00 Intoducing fastKafka
+
+## 04-19
+### 10:00 Accelerating Python Code
