@@ -1,0 +1,11 @@
+Fast ML Preset
+CTGAN Synthesizer
+
+
+GAN Model learing from real data
+
+pandas / sdv
+
+
+evaluate the generated data
+
