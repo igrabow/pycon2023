@@ -14,3 +14,6 @@ attended talks:
 ## 04-18
 ### 09:15 Managing Data Science Teams
 ### 10:30 Aspect-oriented Programming - Diving deep into Decorators
+### 14:10 JAX - horrible
+### 14:45 Delivering AI at Scale (DHL)
+### 16:00 Intoducing fastKafka

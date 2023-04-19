@@ -1,0 +1,4 @@
+Sollte man sich auf jeden Fall anschauen.
+Baut auf fastAPI auf.
+
+https://github.com/airtai/fastkafka
