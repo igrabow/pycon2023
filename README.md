@@ -23,3 +23,5 @@ attended talks:
 ### 10:50 Synthetical Data
 ### 11:50 Type Hints
 ### 12:25 Code Cleanup
+### 14:00 Tox
+### 14:35 Giving and receiving feedback through PRs
