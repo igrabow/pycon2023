@@ -12,3 +12,6 @@ CIA
 2. Integrity (we get what we expect)
 3. Availability (We can always access the information)
 
+
+THE QUESTION TO ASK:
+How can the CIA aof this project be broken?
