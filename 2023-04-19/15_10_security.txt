@@ -1,0 +1,14 @@
+security is one question away 
+
+https://www.wiktoriadalach.com/security/
+
+security is a huge topic
+infinite amount of threat
+
+all of 3 categories:
+
+CIA 
+1. Confitentiality (secrets should be secret)
+2. Integrity (we get what we expect)
+3. Availability (We can always access the information)
+
